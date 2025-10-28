@@ -28,7 +28,7 @@ The task: Build a dynamic dashboard using AI, knowledge graphs, and other tools 
 | Name | Role |
 |------|------|
 | Apoorva Nema | Data Collection, Preprocessing, AI Pipeline , Backend & DatabaseManagement|
-| [Ayushi Rai | Frontend & UI/UX, Prototype Integration , Research Validation & Documentation|
+| Ayushi Rai | Frontend & UI/UX, Prototype Integration , Research Validation & Documentation|
 
 
 ---
